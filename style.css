@@ -1,12 +1,13 @@
-   * {
-        margin: 0;
-        padding: 0;
-        box-sizing: border-box;
-    }
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+
 header {
-    background-color: orange;
+    background-color: #fecd60;
     display: flex;
-    padding: 40px;
-    align-items: center;
-    gap: 40px;
+    padding: 20px;
+    color: #f7b733;
 }
